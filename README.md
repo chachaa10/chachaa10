@@ -1,4 +1,4 @@
-<h1">Hi 👋, I'm Chalex</h1>
+<h1>Hello There, I'm Chalex 👋</h1>
 <h3>A passionate web developer from Philippines</h3>
 
 # 💫 About Me:
